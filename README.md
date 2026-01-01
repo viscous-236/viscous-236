@@ -18,20 +18,9 @@ Passionate blockchain and full-stack developer. I have hands-on experience in sm
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavgoyal2310066@gmail.com)
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viscous-236&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viscous-236&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viscous-236&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 💡 Current Focus
 
-- 🔭 Building innovative Web3 applications and DeFi protocols
+- 🔭 Building innovative AI Agents, Web3 applications and DeFi protocols
 - 🌱 Learning advanced smart contract patterns, Uniswap V4 hooks, and cross-chain interoperability
 - 👯 Open to collaborating on blockchain, DeFi, and full-stack Web3 projects
 - 💬 Ask me about smart contracts, DeFi protocols, Web3 development, or full-stack development!
